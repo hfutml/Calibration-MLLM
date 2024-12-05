@@ -1,0 +1,1 @@
+python PT.py --json_path "The training set used to obtain the optimal prompt." --image_fold_path "/path/to/images" --model_path "/path/to/model" --logging_path "/path/to/logging" --API_key "your key" --device "cuda:0" --k 5 --m 5 --n 10
